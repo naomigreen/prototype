@@ -1,0 +1,32 @@
+
+{
+  "companies":[
+     {
+        "id":100,
+        "name":"barclays",
+        "logo":"https://upload.wikimedia.org/wikipedia/sco/thumb/7/7e/Barclays_logo.svg/1280px-Barclays_logo.svg.png",
+        "bg":"#0374a6",
+        "nav":"#085475",
+        "border":"#43b7ea"
+
+     },
+     {
+        "id":101,
+        "name":"ubs",
+        "logo":"https://logos-download.com/wp-content/uploads/2016/04/UBS_logo_logotype_emblem.png",
+        "bg":"#801d1d",
+        "nav":"#c16f6f",
+        "border":"#c79595"
+
+     },
+     {
+        "id":102,
+        "name":"ing",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ING_Group_N.V._Logo.svg/1280px-ING_Group_N.V._Logo.svg.png",
+        "bg":"#ff6200",
+        "nav":"#ce804f",
+        "border":"#d8966c"
+
+     }
+  ]
+}

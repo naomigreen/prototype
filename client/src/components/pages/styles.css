@@ -1,0 +1,10 @@
+#products,
+#about {
+  width: 90%;
+  margin: 40px auto;
+}
+
+#products img,
+#about img {
+  width: 400px;
+}
